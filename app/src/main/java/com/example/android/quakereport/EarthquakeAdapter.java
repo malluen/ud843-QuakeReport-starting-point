@@ -1,3 +1,5 @@
+package com.example.android.quakereport;
+
 import android.widget.ArrayAdapter;
 import android.app.Activity;
 import android.view.LayoutInflater;
